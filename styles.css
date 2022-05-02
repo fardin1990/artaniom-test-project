@@ -1,0 +1,17 @@
+.container {
+    padding: 0 8px;
+    max-width: 1000px;
+}
+.text-center {
+    text-align: center;
+}
+.my-3 {
+    margin: 1rem 0;
+}
+.resault {
+    min-height: 200px;
+}
+.block {
+    display: inline-block;
+    width: 33%;
+}
